@@ -1,0 +1,56 @@
+{
+  "id" : "mkd7-y4i4",
+  "name" : "Boundaries - Tax Increment Financing Districts (Deprecated April 2023) - Map",
+  "attribution" : "City of Chicago",
+  "attributionLink" : "https://www.chicago.gov",
+  "category" : "Community & Economic Development",
+  "createdAt" : "2023-10-19T22:31:41+0000",
+  "dataUpdatedAt" : "2023-10-19T22:25:12+0000",
+  "dataUri" : "https://data.cityofchicago.org/resource/mkd7-y4i4",
+  "description" : "Map of Boundaries - Tax Increment Financing Districts (Deprecated April 2023)",
+  "domain" : "data.cityofchicago.org",
+  "externalId" : null,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "license" : "See Terms of Use",
+  "metadataUpdatedAt" : "2023-10-19T22:33:57+0000",
+  "provenance" : "OFFICIAL",
+  "updatedAt" : "2023-10-19T22:33:57+0000",
+  "webUri" : "https://data.cityofchicago.org/d/mkd7-y4i4",
+  "approvals" : [ {
+    "reviewedAt" : 1697755361,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 5860779,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1697755349,
+    "targetAudience" : "public",
+    "workflowId" : 2226,
+    "reviewer" : {
+      "id" : "vewm-vupz",
+      "displayName" : "Jonathan Levy"
+    },
+    "submissionDetails" : {
+      "permissionType" : "read"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1697755361,
+      "failureCount" : 0,
+      "startedAt" : 1697755361,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "vewm-vupz",
+      "displayName" : "Jonathan Levy"
+    }
+  } ],
+  "customFields" : {
+    "Metadata" : {
+      "Time Period" : "October 2022",
+      "Frequency" : " Data are updated as needed.",
+      "Data Owner" : "Housing & Economic Development"
+    }
+  },
+  "tags" : [ "deprecated", "boundaries", "gis", "shapefiles", "tif" ]
+}
